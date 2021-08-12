@@ -1,2 +1,2 @@
-# React-practive
+# TodoList-React
 Created with CodeSandbox
